@@ -2,6 +2,6 @@
 
 CHECK OUT THE BELOW REPOSITORY which are PART OF THE PROJECT
 
-`https://github.com/sc23mm/MSC-Project-Frontend-GUI`  this is for SOFTWARE FRONTEND 
+`https://github.com/sc23mm/MSC-Project-Frontend-GUI`  this REPO for SOFTWARE FRONTEND 
 
-`https://github.com/sc23mm/MSc-project-Backend`  this id for SOFTWARE BACKEND
+`https://github.com/sc23mm/MSc-project-Backend`  this REPO for SOFTWARE BACKEND
